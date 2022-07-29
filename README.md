@@ -41,4 +41,4 @@ The most important findings are:
 
 ## Tools
 - Python, libraries: numpy, pandas, matplotlib, seaborn, warnings
-- Jupyter Lab
+- VsCode/Jupyter Notebook
